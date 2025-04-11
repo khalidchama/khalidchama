@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khalidchama
-- 👀 I’m interested in backend & database development with PHP & MySQL
-- 🌱 I’m currently learning backend and database development with PHP & MySQL
+- 👀 I’m interested in web develepment
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on web development topics
 - 📫 How to reach me: twitter: @khalidchama
 
